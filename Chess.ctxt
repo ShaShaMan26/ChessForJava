@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Chess
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ render()
+comment3.params=name\ isWhite
+comment3.target=boolean\ makeMove(java.lang.String,\ java.lang.String)
+comment4.params=sR\ sC\ eR\ eC\ isW
+comment4.target=boolean\ validateMove(int,\ int,\ int,\ int,\ java.lang.String)
+comment5.params=r\ c
+comment5.target=boolean\ pieceAt(int,\ int)
+comment6.params=r\ c
+comment6.target=java.lang.String\ pieceColorAt(int,\ int)
+comment7.params=r\ c
+comment7.target=void\ takePiece(int,\ int)
+comment8.params=
+comment8.target=void\ performPromotion()
+numComments=9
