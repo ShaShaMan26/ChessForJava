@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="832d10ad-9316-42df-b9e2-a8a8b08ccf64" name="Changes" comment="" />
+    <list default="true" id="a4de97f7-97ee-4edb-a581-1502cb0df9a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/ChessRewrite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/ChessMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/GameBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Bishop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/King.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Knight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Pawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Piece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Queen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Rook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/ChessMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/GameBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Bishop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/King.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Knight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Pawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Piece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Queen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Rook.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2Of8GL7dHVTVlgsEfP7PM1WGbik" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OfGJI0cD9gvTWFG2UAQ37Yjy00" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,17 +50,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/shash/IdeaProjects/gitChess/ChessRewrite"
+    "last_opened_file_path": "C:/Users/shash/IdeaProjects/ChessRewrite"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="832d10ad-9316-42df-b9e2-a8a8b08ccf64" name="Changes" comment="" />
-      <created>1681940179498</created>
+      <changelist id="a4de97f7-97ee-4edb-a581-1502cb0df9a4" name="Changes" comment="" />
+      <created>1681944150143</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681940179498</updated>
+      <updated>1681944150143</updated>
     </task>
     <servers />
   </component>

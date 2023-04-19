@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gitChess.iml" filepath="$PROJECT_DIR$/gitChess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChessRewrite.iml" filepath="$PROJECT_DIR$/ChessRewrite.iml" />
     </modules>
   </component>
 </project>
