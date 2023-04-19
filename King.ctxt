@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=King
-comment1.params=r\ c\ isW\ i
-comment1.target=King(int,\ int,\ boolean,\ java.lang.String)
-comment2.params=r\ c
-comment2.target=boolean\ move(int,\ int)
-numComments=3
