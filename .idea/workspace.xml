@@ -1,37 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a4de97f7-97ee-4edb-a581-1502cb0df9a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/ChessRewrite.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/ChessMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/GameBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Bishop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/King.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Knight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Pawn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Piece.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Queen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/out/production/ChessRewrite/ChessRewrite/Pieces/Rook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/ChessMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/GameBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Bishop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/King.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Knight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Pawn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Piece.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Queen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessRewrite/src/ChessRewrite/Pieces/Rook.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/ChessMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/GameBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Bishop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/King.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Knight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Pawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Piece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Queen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Rook.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OfGJI0cD9gvTWFG2UAQ37Yjy00" />
   <component name="ProjectViewState">
