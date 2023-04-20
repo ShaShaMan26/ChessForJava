@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ChessRewrite" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4de97f7-97ee-4edb-a581-1502cb0df9a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ChessRewrite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ChessRewrite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/ChessMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/GameBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Bishop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/King.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Knight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Pawn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Piece.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Queen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessRewrite/ChessRewrite/Pieces/Rook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChessRewrite/ChessMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChessRewrite/ChessMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChessRewrite/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChessRewrite/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChessRewrite/GameBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChessRewrite/GameBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChessRewrite/Pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChessRewrite/Pieces/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChessRewrite/ScoreBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChessRewrite/ScoreBoard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +37,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OfGJI0cD9gvTWFG2UAQ37Yjy00" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,9 +48,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/shash/IdeaProjects/ChessRewrite"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/shash/IdeaProjects/ChessRewrite/src/ChessRewrite",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shash\IdeaProjects\ChessRewrite" />
+      <recent name="C:\Users\shash\IdeaProjects\ChessRewrite\out\artifacts\ChessRewrite" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

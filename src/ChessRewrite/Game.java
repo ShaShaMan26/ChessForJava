@@ -4,18 +4,19 @@ import ChessRewrite.Pieces.*;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.InputMismatchException;
+import java.util.List;
 import java.util.Scanner;
 
 import static java.lang.Integer.*;
 import static java.lang.Math.abs;
 
 public class Game {
+    private String actionMessage = "Ex: Move 'D2' to 'D3', 'resign' to end";
     private GameBoard board = new GameBoard();
-    private final ArrayList<Piece> gamePieces = new ArrayList<>();
+    private final List<Piece> gamePieces = new ArrayList<>();
     private boolean isWhiteTurn = true;
     private boolean isWon = false;
-    private String actionMessage = "Ex: Move 'D2' to 'D3', 'resign' to end";
+    private final ScoreBoard scoreBoard = new ScoreBoard();
 
     public Game() {
         for (int i = 0; i < 16; i++) {
@@ -74,7 +75,9 @@ public class Game {
         new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
         updateBoard();
         System.out.println(actionMessage);
-        System.out.println(board);
+        for (int i = 0; i < 11; i++) {
+            System.out.println(board.formatForDisplay().get(i) + " " + scoreBoard.formatForDisplay().get(i));
+        }
     }
     public boolean getIsWon() {
         return isWon;
@@ -226,6 +229,7 @@ public class Game {
             if (gamePiece.at(x, y)
                 && gamePiece.isWhite() != isWhiteTurn) {
                 gamePiece.moveTo(-1, -1);
+                scoreBoard.addToScoreBoard(gamePiece);
                 if (gamePiece instanceof King) {
                     isWon = true;
                 }

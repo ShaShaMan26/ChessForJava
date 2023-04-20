@@ -39,10 +39,6 @@ public abstract class Piece {
         return isWhite;
     }
 
-    /**
-     * @param isW
-     * true for White, false for Black
-     */
     public void setColor(Boolean isW) {
         isWhite = isW;
     }

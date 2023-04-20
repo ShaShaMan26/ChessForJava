@@ -1,6 +1,8 @@
 package ChessRewrite;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class GameBoard {
     private final String[][] grid = new String[8][8];
@@ -15,19 +17,23 @@ public class GameBoard {
         grid[y][x] = icon;
     }
 
-    public String toString() {
-        StringBuilder board = new StringBuilder();
+    public List<String> formatForDisplay() {
+        List<String> board = new ArrayList<>();
         int i = 8;
-        board.append("   _________________\n");
+        board.add("   _________________");
         for (String[] row : grid) {
-            board.append(i).append(" | ");
+            StringBuilder tempStr = new StringBuilder();
+            tempStr.append(i).append(" | ");
             i--;
             for (String tile : row) {
-                board.append(tile).append(" ");
+                tempStr.append(tile).append(" ");
             }
-            board.append("|\n");
+            tempStr.append("|");
+            board.add(tempStr.toString());
         }
-        board.append("  |_________________|\n\tA B C D E F G H\n");
-        return board.toString();
+        board.add("  |_________________|");
+        board.add("\tA B C D E F G H");
+
+        return board;
     }
 }

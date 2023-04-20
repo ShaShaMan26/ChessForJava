@@ -10,7 +10,7 @@ public class ChessMain {
 
             currentGame.displayGame();
 
-            while(!currentGame.getIsWon()) {
+            while (!currentGame.getIsWon()) {
                 currentGame.playNextTurn();
             }
 
