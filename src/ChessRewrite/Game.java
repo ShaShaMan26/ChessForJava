@@ -135,7 +135,7 @@ public class Game {
         String endPos = "";
         int endXPos = 0;
         int endYPos = 0;
-        do {
+        while (true) {
             Scanner moveReader = new Scanner(System.in);
             String turnMessage = "";
             if (isWhiteTurn) {
@@ -159,9 +159,17 @@ public class Game {
                     changeTurnColor();
                     break;
                 }
-                System.out.println("\n***Invalid move***");
+                actionMessage = "INVALID MOVE TRY AGAIN";
+                displayGame();
             }
-        }while(!canMakeMove(startXPos, startYPos, endXPos, endYPos));
+
+            if (canMakeMove(startXPos, startYPos, endXPos, endYPos)){
+                break;
+            }
+
+            actionMessage = "INVALID MOVE TRY AGAIN";
+            displayGame();
+        }
         actionMessage = startPos + " moved to " + endPos;
         takePieceAt(endXPos, endYPos);
         makeMove(startXPos, startYPos, endXPos, endYPos);

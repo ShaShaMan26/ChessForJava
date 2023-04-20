@@ -7,6 +7,7 @@ Created by: Cristiano Porretta
 
 *Gameplay*
 - Move pieces by entering current board position (ex: 'D2'), then entering target position (ex: 'D4').
+    If move is invalid, you will be prompted to enter your move again until a valid move is provided.
 - Take opposite player's King to win.
 - Resign by entering 'resign'.
 - When Pawn reaches end of board, select promotion by entering integer value corresponding with promotion type.
