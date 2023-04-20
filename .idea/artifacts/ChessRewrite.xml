@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChessRewrite">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChessRewrite</output-path>
+    <root id="archive" name="ChessRewrite.jar" />
+  </artifact>
+</component>
