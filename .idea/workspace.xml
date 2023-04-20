@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a4de97f7-97ee-4edb-a581-1502cb0df9a4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ChessRewrite/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChessRewrite/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -137,7 +137,7 @@ public class Game {
         int endYPos = 0;
         while (true) {
             Scanner moveReader = new Scanner(System.in);
-            String turnMessage = "";
+            String turnMessage = "\n";
             if (isWhiteTurn) {
                 turnMessage += "White";
             } else {
