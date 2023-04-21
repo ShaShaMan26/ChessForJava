@@ -9,7 +9,7 @@ public class Knight extends Piece {
 
     @Override
     public Boolean canMakeMove(int x, int y) {
-        return (this.getColorMod() * abs(this.getXPos() - x) == 2 && this.getColorMod() * abs(this.getYPos() - y) == 1)
-                || (this.getColorMod() * abs(this.getXPos() - x) == 1 && this.getColorMod() * abs(this.getYPos() - y) == 2);
+        return (abs(this.getXPos() - x) == 2 && abs(this.getYPos() - y) == 1)
+                || (abs(this.getXPos() - x) == 1 && abs(this.getYPos() - y) == 2);
     }
 }
